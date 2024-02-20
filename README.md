@@ -1,4 +1,5 @@
 ## Simple E-commerce in PHP
+This project is done with the help of two friends Nhyuumila Kasaa and Sonu G.C. and I am very grateful for them.
 
 ## Features:
 -Login, Signup & Logout
